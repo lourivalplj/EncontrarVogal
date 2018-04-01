@@ -1,0 +1,7 @@
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\bin\Debug\EncontrarVogal.exe.config
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\bin\Debug\EncontrarVogal.exe
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\bin\Debug\EncontrarVogal.pdb
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\obj\Debug\EncontrarVogal.csprojResolveAssemblyReference.cache
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\obj\Debug\EncontrarVogal.csproj.CoreCompileInputs.cache
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\obj\Debug\EncontrarVogal.exe
+C:\Users\Lourival\source\repos\EncontrarVogal\EncontrarVogal\obj\Debug\EncontrarVogal.pdb
